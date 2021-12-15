@@ -27,3 +27,16 @@ background-color: darkgreen;
 .btnStop {
 background-color: brown;
 }
+.timer {
+  display: flex;
+  margin-top: 15px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
