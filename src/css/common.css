@@ -40,3 +40,27 @@ background-color: brown;
   text-transform: uppercase;
   font-weight: 500;
 }
+
+
+label {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+form {
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  font-size: 20px;
+  height: 30px;
+  width: 150px;
+}
+
+.submit-btn {
+  height: 35px;
+  font-size: 25px;
+  display: block;
+  margin-top: 25px;
+}
